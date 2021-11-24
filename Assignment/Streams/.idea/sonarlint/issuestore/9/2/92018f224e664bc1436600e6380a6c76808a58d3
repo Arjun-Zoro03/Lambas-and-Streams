@@ -1,0 +1,16 @@
+
+D
+java:S1481")Remove this unused "num1" local variable.(ˆ—ºçþÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¿€ž¢
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÚÆ—°ùÿÿÿÿ
+U
+java:S1854"?Remove this useless assignment to local variable "defaultName".(Üôì¿
+6
+java:S2129" Remove this "String" constructor(Üôì¿
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¦¹æ‡
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(·êÜöüÿÿÿÿ8ÖÏµçÔ/
+V	java:S125#"<This block of commented-out lines of code should be removed.(†ÏëÂøÿÿÿÿ
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(î–˜Éüÿÿÿÿ8ÜÏµçÔ/
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Õë±Äøÿÿÿÿ8ÝÏµçÔ/

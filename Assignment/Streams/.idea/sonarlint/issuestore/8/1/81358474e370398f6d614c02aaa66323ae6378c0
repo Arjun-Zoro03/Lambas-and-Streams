@@ -1,0 +1,13 @@
+
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(µ˜›¼
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(µˆœÑ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(‹µˆ©
+L
+java:S16119"/Remove the parentheses around the "t" parameter(‹µˆ©8¿¿ÐæÔ/
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(ç¶ðšúÿÿÿÿ8ÔÇÖæÔ/
+Q
+java:S1611<"/Remove the parentheses around the "t" parameter(ç¶ðšúÿÿÿÿ8ÖÇÖæÔ/
+n
+java:S1192"LDefine a constant instead of duplicating this literal "Dell Laptop" 3 times.(ºé°Ôøÿÿÿÿ8ÝÇÖæÔ/

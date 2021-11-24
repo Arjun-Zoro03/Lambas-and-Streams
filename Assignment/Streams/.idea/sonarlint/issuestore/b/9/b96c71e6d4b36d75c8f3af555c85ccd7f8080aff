@@ -1,0 +1,16 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ñÆÇú
+P
+java:S1854";Remove this useless assignment to local variable "mNames2".(Á˜ñ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(İÚäùÿÿÿÿ
+A
+java:S1481",Remove this unused "mNames2" local variable.(Á˜ñ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(„á´²8–†ŞßÔ/
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(èøÉ›ùÿÿÿÿ
+J
+java:S1144"4Remove this unused private "testEmptyStream" method.(™Áı
+U
+java:S1144":Remove this unused private "testStreamsFromValues" method.(¸÷éÆüÿÿÿÿ
+U
+java:S1144"?Remove this unused private "testGenerateIterateStreams" method.(ºàÿû

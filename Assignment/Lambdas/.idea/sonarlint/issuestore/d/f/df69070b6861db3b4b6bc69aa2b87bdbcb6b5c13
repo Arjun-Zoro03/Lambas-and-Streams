@@ -1,0 +1,31 @@
+
+Q
+java:S1854"6Remove this useless assignment to local variable "m2".(âªŞ©üÿÿÿÿ
+Q
+java:S1854"6Remove this useless assignment to local variable "m1".(ÔÃØìÿÿÿÿÿ
+J
+java:S1611"/Remove the parentheses around the "i" parameter(ÔÃØìÿÿÿÿÿ
+C
+java:S1125"(Remove the unnecessary boolean literals.(ÔÃØìÿÿÿÿÿ
+B
+java:S1481"'Remove this unused "m1" local variable.(ÔÃØìÿÿÿÿÿ
+B
+java:S1481"'Remove this unused "m2" local variable.(âªŞ©üÿÿÿÿ
+L
+java:S1854"6Remove this useless assignment to local variable "m2".(²ñ¹Ù
+Q
+java:S1854"6Remove this useless assignment to local variable "m1".(ÔŠ´İÿÿÿÿÿ
+J
+java:S1611"/Remove the parentheses around the "i" parameter(ÔŠ´İÿÿÿÿÿ
+C
+java:S1125"(Remove the unnecessary boolean literals.(ÔŠ´İÿÿÿÿÿ
+B
+java:S1481"'Remove this unused "m1" local variable.(ÔŠ´İÿÿÿÿÿ
+=
+java:S1481"'Remove this unused "m2" local variable.(²ñ¹Ù
+L
+java:S1854"6Remove this useless assignment to local variable "m1".(Ş´®”
+=
+java:S1481"'Remove this unused "m1" local variable.(Ş´®”
+U
+java:S1118 ":Add a private constructor to hide the implicit public one.(áà¥¬ùÿÿÿÿ

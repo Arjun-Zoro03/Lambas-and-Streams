@@ -1,0 +1,11 @@
+
+]
+java:S1854	"@Remove this useless assignment to local variable "stringArray1".(ˆúü½8³ÙÏÚÔ/
+Z
+java:S1854"?Remove this useless assignment to local variable "stringArray".(ñ·¥öşÿÿÿÿ
+M
+java:S1611"2Remove the parentheses around the "size" parameter(ñ·¥öşÿÿÿÿ
+K
+java:S1481"0Remove this unused "stringArray" local variable.(ñ·¥öşÿÿÿÿ
+N
+java:S1481	"1Remove this unused "stringArray1" local variable.(ˆúü½8¿ÙÏÚÔ/
